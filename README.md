@@ -15,3 +15,4 @@ A simple command-line Java game where the player tries to guess a randomly gener
 1. Make sure you have **Java** installed on your machine.
 2. Compile the code using:
    ```bash
+    javac NumberGuessingGame.java
